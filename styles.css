@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+.container {
+  font-size: 3rem;
+  margin-top: 300px;
+  text-align: center;
+}
